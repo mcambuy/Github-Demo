@@ -11,8 +11,10 @@ body {
 }
 
 main {
-    width: 100%;
+    width: 70%;
     height: 100%;
+    margin: auto;
+    margin-top: 5%;
     background: linear-gradient(silver, pink);
     display: flex;
     justify-content: space-between;
