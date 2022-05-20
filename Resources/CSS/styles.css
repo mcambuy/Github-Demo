@@ -14,10 +14,13 @@ main {
     width: 70%;
     height: 100%;
     margin: auto;
+    padding: 20px;
     margin-top: 5%;
+    border: 5px double blue;
     background: linear-gradient(silver, pink);
     display: flex;
     justify-content: space-between;
+    border-radius: 10px;
 }
 
 #img-frame {
